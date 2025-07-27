@@ -1,0 +1,9 @@
+{
+    "lang":"cn_s",
+    "config_windows":"./config/",
+    "cache_windows":"./dlcache/",
+    "output_windows":"./output/",
+    "config_android":"/storage/emulated/0/config/bltool/",
+    "cache_android":"/storage/emulated/0/Download/dlcache/",
+    "output_android":"/storage/emulated/0/Download/output/"
+}
